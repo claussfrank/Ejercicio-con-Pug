@@ -1,0 +1,17 @@
+{
+  "name": "background-pug",
+  "version": "1.0.0",
+  "description": "\"trabajo con pug\"",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"pug\""
+  ],
+  "author": "Clauss Frank",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-jade": "^1.1.0"
+  }
+}
